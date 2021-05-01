@@ -1,6 +1,5 @@
 ## Spis treści
 * [Ogólne informacje](#ogólne-informacje)
-* [Zmiana kontrastu](#zmiana-kontrastu)
 * [Użyte technologie](#użyte-technologie)
 * [Prezentacja programu](#prezentacja-programu)
 
