@@ -1,0 +1,15 @@
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.exe
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.deps.json
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.runtimeconfig.json
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.dll
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\bin\Debug\netcoreapp3.1\HistogramsAndFilters.pdb
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.Form1.resources
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.AssemblyInfo.cs
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.dll
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.pdb
+C:\Users\Artur\source\repos\HistogramsAndFilters\HistogramsAndFilters\obj\Debug\netcoreapp3.1\HistogramsAndFilters.genruntimeconfig.cache
