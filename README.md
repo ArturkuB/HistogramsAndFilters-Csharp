@@ -6,12 +6,12 @@
 
 ## Ogólne informacje
 Program modyfikuje obrazy wykorzystując algorytmy wyrównania histogramu oraz filtrów rozmywających (filtr uśredniający oraz filtr Gaussa).
-<h4>Wyrównywanie histogramu:</h4>
+<h3>Wyrównywanie histogramu:</h3>
 <b> Wyrównywanie histogramu (ang. histogram equalization)</b> jest metodą modyfikacji
 intensywności punktów obrazu, który po transformacji będzie miał pożądany kształt
 histogramu.
 
- <h4>Filtry rozmywające:</h4>
+ <h3>Filtry rozmywające:</h3>
  <b>Filtry rozmywające</b> to filtry dolnoprzepustowe uśredniające wartości otoczenia
 znajdującego się w zasięgu maski filtru. Ideą takiego filtru jest zastąpienie wartości każdego punktu w obrazie przez średnią
 intensywność jego sąsiedztwa zdefiniowanego przez maskę filtru.
